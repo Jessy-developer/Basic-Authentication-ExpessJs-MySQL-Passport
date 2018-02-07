@@ -47,7 +47,6 @@ module.exports = function(app, passport) {
 
     // middleware function to check for logged-in users
     function sessionChecker(req, res, next){
-        console.log(req.user);
         if (req.user) {
             res.redirect('/dashboard');
         } else {
