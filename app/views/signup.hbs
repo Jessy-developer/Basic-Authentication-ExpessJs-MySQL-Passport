@@ -1,0 +1,35 @@
+<!-- Custom styles for this template -->
+<link href="/css/preLoginLayout.css" rel="stylesheet">
+
+<header class="masthead">
+    <div class="container h-100">
+        <div class="row justify-content-md-center h-100">
+            <div class="col-lg-7 my-auto">
+                <div class="header-content mx-auto">
+                    <form id="signup" name="signup" method="post" action="/signup">
+                        <label for="firstname">Firstname</label>
+                        <input class="form-control" name="firstname" type="text" required/>
+                        <br />
+                        <label for="lastname">Lastname</label>
+                        <input class="form-control" name="lastname" type="text" required/>
+                        <br />
+                        <label for="email">Email Address</label>
+                        <input class="form-control" name="email" type="email" required/>
+                        <br />
+                        <label for="password">Password</label>
+                        <input class="form-control" name="password" type="password" required/>
+                        <br />
+                        <div class="row justify-content-md-center">
+                            <div class="col text-center">
+                                <a href="/signin" class="btn btn-primary" type="reset">Login</a>
+                            </div>
+                            <div class="col text-center">
+                                <button class="btn btn-success" type="submit">SIGN UP</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
