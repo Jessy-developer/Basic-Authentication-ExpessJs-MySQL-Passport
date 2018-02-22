@@ -1,3 +1,4 @@
+'use strict'
 var authController = require('../controllers/authcontroller.js');
  
  
