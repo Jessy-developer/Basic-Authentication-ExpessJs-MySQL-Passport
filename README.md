@@ -22,9 +22,9 @@ A step by step series of examples that tell you how to get a development env run
 
 ```
 1.Install MySQL 5.5+
-2.Download the package zip/use git clone https://github.com/Jessy-developer/SIMS.git 
-3.npm install 
-4.npm Started
+2.Download the [package zip](https://github.com/Jessy-developer/SIMS)/use git clone https://github.com/Jessy-developer/SIMS.git 
+3.npm install (inside the directory)
+4.npm Start
 5.open http://localhost:5000/ in your web browser to start
 ```
 
@@ -33,6 +33,7 @@ A step by step series of examples that tell you how to get a development env run
 * [Expressjs](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 * [Sequelize](http://docs.sequelizejs.com/) - A Promise-based ORM for Node.js
 * [Passport](http://www.passportjs.org/) - Simple, unobtrusive authentication for Node.js
+* [Bootstrap 4.0](https://getbootstrap.com/) - Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
 
 ## Contributing
 
