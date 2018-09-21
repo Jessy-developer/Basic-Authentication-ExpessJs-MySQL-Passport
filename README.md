@@ -22,7 +22,7 @@ A step by step series of examples that tell you how to get a development env run
 
 ```
 1.Install MySQL 5.5+
-2.Download the package zip(https://github.com/Jessy-developer/SIMS)/use git clone https://github.com/Jessy-developer/SIMS.git 
+2.Download the package zip/use git clone https://github.com/Jessy-developer/SIMS.git 
 3.npm install 
 4.npm Started
 5.open http://localhost:5000/ in your web browser to start
