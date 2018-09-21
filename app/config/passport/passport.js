@@ -1,3 +1,4 @@
+'use strict'
 //load bcrypt
 var bCrypt = require('bcrypt-nodejs');
  
